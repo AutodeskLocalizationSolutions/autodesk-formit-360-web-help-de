@@ -1,24 +1,24 @@
-# Content Libraries
 
-----
 
-Use a personal library of frequently used elements like furniture, building elements, or material base files.
- 
-NoteTo link to local content, use Google Chrome instead of Firefox or Windows Explorer.
-You can store previous projects and site files. Your content library can be stored and linked to from a local folder (in a Drop Box Sync folder for instance), or an [Autodesk 360 Drive](https://360.autodesk.com). To use a content library, click the Content Library icon in the properties panel to the right side of the canvas. Then, click on the 'Link Library' button.![](Images/GUID-FC74216E-0452-400D-97C6-52BBCEC19C38-low.png)
+# Inhaltsbibliotheken
 
-After you add new FormIt sketches (.AXM), .OBJ, or .STL files to your content file structure - either locally or on A360 Drive - you will need to refresh the Content Library in FormIt. To do this click the Link Library button again, and either navigate to your local library, or choose the A360 option and FormIt will refresh the list automatically.
+---
 
-If you have linked your library locally, and then start a new FormIt web session, you will need to re-link the Content Library. When you click the Content Library tab, you will see a web browser specific dialog asking permission to link to a local folder. You need to navigate to your top level content library folder.
+Verwenden Sie eine persönliche Bibliothek mit häufig verwendeten Elementen wie Möbeln, Gebäudeelementen oder Materialbasisdateien.
 
-  
+Anmerkung: Verwenden Sie für Verknüpfungen mit lokalen Inhalten nicht Firefox oder Windows Explorer, sondern Google Chrome. Sie können ältere Projekte und Grundstücksdateien speichern. Ihre Inhaltsbibliothek kann in einem lokalen Ordner (etwa einem Drop Box Sync-Ordner) oder in einem [Autodesk 360 Drive](https://360.autodesk.com) gespeichert und verknüpft werden. Um eine Inhaltsbibliothek zu verwenden, klicken Sie im Eigenschaftenbereich rechts neben dem Arbeitsbereich auf das Symbol Inhaltsbibliothek. Klicken Sie dann auf die Schaltfläche zum Verknüpfen der Bibliothek.![](Images/GUID-FC74216E-0452-400D-97C6-52BBCEC19C38-low.png)
 
-#### Topics in this section
+Nachdem Sie neue FormIt-Skizzen (AXM), OBJ- oder STL-Dateien in Ihre Inhaltsdateistruktur aufgenommen haben (lokal oder auf A360 Drive), müssen Sie die Inhaltsbibliothek in FormIt aktualisieren. Klicken Sie dazu erneut auf die Schaltfläche zum Verknüpfen der Bibliothek, und navigieren Sie entweder zu Ihrer lokalen Bibliothek, oder wählen Sie die A360-Option. FormIt aktualisiert daraufhin automatisch die Liste.
 
-* [Link a Content Library](../Link a Content Library.md)
-    
-    Access previously stored projects and site files.
-* [Place Content ](../Place Content.md)
-    
-    Use the data from a content library file in a design.
+Wenn Sie Ihre Bibliothek lokal verknüpft haben und anschließend eine neue FormIt-Internetsitzung starten, müssen Sie die Inhaltsbibliothek erneut verknüpfen. Wenn Sie auf die Registerkarte Inhaltsbibliothek klicken, wird ein für Ihren Webbrowser spezifisches Dialogfeld angezeigt, in dem die Berechtigung zur Verknüpfung zu einem lokalen Ordner angefordert wird. Sie müssen zum Ordner auf der obersten Ebene Ihrer Inhaltsbibliothek navigieren.
+
+#### Themen in diesem Abschnitt
+
+* [Verknüpfen einer Inhaltsbibliothek](../Link a Content Library.md)
+
+Zugriff auf zuvor gespeicherte Projekte und Grundstücksdateien.
+
+* [Platzieren von Inhalten ](../Place Content.md)
+
+Verwendung von Daten aus einer Inhaltsbibliotheksdatei in Entwürfen.
 

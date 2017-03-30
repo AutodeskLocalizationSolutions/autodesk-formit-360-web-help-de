@@ -1,14 +1,16 @@
-# Following a Session Camera
 
-----
 
-View the work from another collaborator's point of view.
- 
+# Einer Sitzungskamera folgen
 
-At times, you may want to follow another user's camera and see what they are working on from their point of view.
+---
 
-* Click the 'Follow Camera' button next to the name of the user you want to follow. 
-    
-    ![](Images/GUID-CDBA057F-ADE3-4FAD-B907-BAD534451987-low.png)
+Betrachten Sie die Arbeiten aus der Perspektive eines anderen Teammitglieds.
 
-A red banner will appear to give you an option to stop following the camera.
+Es kann nützlich sein, die Arbeit eines anderen Benutzers über dessen Kamera aus seiner Perspektive zu betrachten.
+
+* Klicken Sie neben dem Namen des Benutzers, dem Sie folgen möchten, auf Kamera folgen.
+
+![](Images/GUID-CDBA057F-ADE3-4FAD-B907-BAD534451987-low.png)
+
+Eine rote Markierung wird angezeigt, über die Sie die Beobachtung beenden können.
+

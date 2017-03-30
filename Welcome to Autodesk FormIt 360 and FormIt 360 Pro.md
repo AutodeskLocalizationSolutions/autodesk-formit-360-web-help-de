@@ -1,18 +1,20 @@
-# Welcome to Autodesk FormIt 360 and FormIt 360 Pro
 
-----
 
-Discover how to create conceptual building designs while initiating a BIM workflow.
- 
+# Willkommen bei Autodesk FormIt 360 und FormIt 360 Pro
 
-Use Autodesk ®  FormIt ®  360 to capture building design concepts when ideas occur. Create those ideas in a portable digital format that can use real-world site information, such as satellite images, to orient your designs. Use real building and environmental data to support design brainstorming. Move your preliminary designs to centralized data storage for access and refinement in Autodesk ®  Revit ®  software or other applications.
+---
 
-[Autodesk ®  FormIt ®  360 Pro](http://www.autodesk.com/store/formit-360?licenseType=cloudSub&term=monthly) provides additional features, including:
+Lernen Sie Verfahren kennen, mit denen Sie Konzeptentwürfe für Gebäude erstellen und zugleich BIM-Arbeitsabläufe starten können.
 
-Visit the[ FormIt 360 YouTube Channel](https://www.youtube.com/channel/UCdZJr6Bo4pwBu3lQqcxlDsw) to view the full list of tutorial videos.
+Halten Sie Ihre Ideen mit Autodesk® FormIt® 360 sofort in Konzepten für Gebäudeentwürfe fest. Zeichnen Sie diese Ideen in einem portablen digitalen Format auf, in dem Sie mithilfe realer Grundstücksdaten, beispielsweise von Satellitenbildern, Ihre Entwürfe korrekt ausrichten können. Nutzen Sie Gebäude- und Umgebungsdaten aus der realen Welt beim Brainstorming. Übertragen Sie Ihre Vorentwürfe in zentrale Datenspeicher, um mit Autodesk® Revit®-Software oder anderen Anwendungen auf sie zuzugreifen und sie weiterzuentwickeln.
 
-[What's New](https://www.youtube.com/watch?v=dDNxDf05k2Y&list=PLqumTDi1CVHOtEqVu0Efnh0TLYKml8Fer)
+[Autodesk® FormIt® 360 Pro](http://www.autodesk.com/store/formit-360?licenseType=cloudSub&term=monthly) bietet zusätzliche Funktionen:
 
-* Contextual Menu 
-    
-    ![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
+Besuchen Sie den [ FormIt 360 YouTube-Kanal](https://www.youtube.com/channel/UCdZJr6Bo4pwBu3lQqcxlDsw), um eine vollständige Liste mit Lernvideos anzuzeigen.
+
+[Neu in Inventor](https://www.youtube.com/watch?v=dDNxDf05k2Y&list=PLqumTDi1CVHOtEqVu0Efnh0TLYKml8Fer)
+
+* Kontextmenü
+
+![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
+

@@ -1,29 +1,32 @@
-# Manage Your Data
 
-----
 
-Use multiple data formats to preserve and share your designs.
- 
+# Verwalten Ihrer Daten
 
-Share and save your data in many formats.
+---
 
-  
+Entwürfe können in einer Reihe verschiedener Datenformate aufbewahrt und freigegeben werden.
 
-#### Topics in this section
+Sie können Ihre Daten in zahlreichen Formaten freigeben und speichern.
 
-* [ Saving Your Work](../Saving Your Work.md)
-    
-    Preserve your designs in multiple formats.
-* [Export Files and Images](../Export Files and Images.md)
-    
-    Save files to your A360 drive or to local storage
-* [ Content Libraries](../Content Libraries/README.md)
-    
-    Use a personal library of frequently used elements like furniture, building elements, or material base files.
-* [About Revit Files](../About Revit Files.md)
-    
-    Save your design in a format that Revit can open and use.
+#### Themen in diesem Abschnitt
+
+* [ Speichern Ihrer Arbeiten](../Saving Your Work.md)
+
+Ihre Entwürfe bleiben in unterschiedlichen Formaten unverändert erhalten.
+
+* [Exportieren von Dateien und Bildern](../Export Files and Images.md)
+
+Dateien auf Ihrem A360 Drive oder im lokalen Speicher ablegen
+
+* [ Inhaltsbibliotheken](../Content Libraries/README.md)
+
+Verwenden Sie eine persönliche Bibliothek mit häufig verwendeten Elementen wie Möbeln, Gebäudeelementen oder Materialbasisdateien.
+
+* [Info zu Revit-Dateien](../About Revit Files.md)
+
+Sie können Entwürfe in einem Format speichern, das in Revit geöffnet und verwendet werden kann.
+
 * [FormIt 360 Converter](../FormIt 360 Converter.md)
-    
-    Convert files from other applications to use within FormIt 360
+
+Konvertieren von Dateien aus anderen Anwendungen für die Verwendung in FormIt 360
 

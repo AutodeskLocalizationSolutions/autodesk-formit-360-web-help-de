@@ -1,32 +1,31 @@
-# Building Performance
+# Gebäudenutzbarkeit
 
-----
+---
 
-Start a BIM workflow by evaluating the performance of elements from the beginning of the design process.
+Starten Sie BIM-Arbeitsabläufe, indem Sie im Entwurfsprozess von Anfang an die Effizienz von Elementen beurteilen.
 
-### Building Performance
+### Gebäudenutzbarkeit
 
 | | |
 | ---- | ---- |
-| Use the Properties palette to inspect building attributes, such as area.   |   ![](Images/GUID-D2AC7F6B-71D4-4A6D-9FB0-1B89949036E0-low.png)   |
+| In der Eigenschaftenpalette können Sie Gebäudeattribute wie die Fläche überprüfen. | ![](Images/GUID-D2AC7F6B-71D4-4A6D-9FB0-1B89949036E0-low.png) |
 
+#### Siehe auch
 
-#### See Also
+* [Objekteigenschaften anzeigen ](../../Modify Designs/Examine Object Properties.md)
+* [Volumen- und Raumnutzung](../../Levels and Space Usage/README.md)
 
-* [Examine Object Properties ](../../Modify Designs/Examine Object Properties.md)
-* [Volume and Space Usage ](../../Levels and Space Usage/README.md)
+#### Themen in diesem Abschnitt
 
-  
+* [ Sonnen- und Schatteneinstellungen ](../Sun and Shadow Settings.md)
 
-#### Topics in this section
+Steuern Sie die Winkel der Schatten an Ihren Standorten mithilfe von Datum und Uhrzeit.
 
-* [ Sun and Shadow Settings ](../Sun and Shadow Settings.md)
-    
-    Control the angle of the shadows at your locations by setting date and time.
-* [Solar Analysis](../Solar Analysis.md)
-    
-    Visualize the amount of solar radiation that your model receives.
-* [Whole Building Energy Analysis](../Whole Building Energy Analysis.md)
-    
-    Evaluate factors that affect building performance, such a wall insulation and HVAC efficiency.
+* [Sonnenstudie](../Solar Analysis.md)
+
+Visualisierung der Sonneneinstrahlung auf Ihr Modell.
+
+* [Energieanalyse des gesamten Gebäudes](../Whole Building Energy Analysis.md)
+
+Sie können Faktoren auswerten, die sich auf die Gebäudeeffizienz auswirken, z. B. Wanddämmung und Effizienz der Lüftung.
 

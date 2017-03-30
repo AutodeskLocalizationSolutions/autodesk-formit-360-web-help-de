@@ -1,25 +1,28 @@
-# Apply a Material
 
-----
 
-Use the Material Editor to place a material on an object or a selected object face.
+# Anwenden eines Materials
 
-Materials can be applied to faces or entire objects.
+---
 
-## Apply a Material
+Verwenden Sie den Material-Editor, um ein Material einem Objekt oder einer ausgewählten Fläche eines Objekts zuzuweisen.
 
-1. Click the tab on the right side of the screen and click the icon for the Material Editor.
-2. Hover the mouse pointer over the material you wish to apply. 
-    
-    ![](Images/GUID-32B2789F-F04F-44B4-8924-8CE9FC98E8C1-low.png)
-3. Select the Paintbrush icon.
-4. Click on the face to apply the material to a single face. Double-click to apply the material to an entire object.
+Sie können Materialien auf Flächen oder ganze Objekte anwenden.
 
-## Apply a Material to a Group
+## Anwenden eines Materials
 
-Materials applied to non-grouped objects in the sketch will appear under the heading Main Sketch. There are two options for applying a material to faces and/or objects in a Group: 
-1. *Group Instance*: If you want to apply a material to an entire group AND you do not want that material to be applied to other instances of the group, you can paint the group instance by following the steps above.
-2. *Group Definition*: If you want the material to be applie to ALL instances of the group, first [edit the group](../../../Using Groups/Edit Group.md) and then follow the steps outlined above. The material will then appear under a heading with the name of the group.
+1. Klicken Sie auf die Registerkarte an der rechten Seite des Bildschirms und dann auf das Symbol für den Material-Editor.
+2. Bewegen Sie den Mauszeiger über das Material, das Sie anwenden möchten.
 
+![](Images/GUID-32B2789F-F04F-44B4-8924-8CE9FC98E8C1-low.png)
+
+3. Wählen Sie das Pinselsymbol.
+4. Um das Material auf eine einzelne Fläche anzuwenden, klicken Sie auf diese. Um das Material auf das gesamte Objekt anzuwenden, doppelklicken Sie darauf.
+## Material auf eine Gruppe anwenden
+
+Materialien, die auf nicht zu Gruppen gehörige Objekte in der Skizze angewendet werden, werden unter der Überschrift Hauptskizze angezeigt. Zum Anwenden von Materialien auf Flächen und/oder Objekte in einer Gruppe stehen zwei Optionen zur Verfügung:
+
+1. *Gruppenexemplar*: Wenn Sie ein Material auf eine ganze Gruppe, nicht jedoch auf andere Exemplare dieser Gruppe anwenden möchten, können Sie die Gruppe wie oben beschrieben mit dem Material versehen.
+2. *Gruppendefinition*: Wenn das Material auf sämtliche Exemplare der Gruppe angewendet werden soll, müssen Sie zuerst [die Gruppe bearbeiten](../../../Using Groups/Edit Group.md) und danach die oben angegebenen Schritte ausführen. Das Material wird dann unter der Überschrift mit dem Namen der Gruppe angezeigt.
 
 ![](Images/GUID-498D5F73-CF4B-46F1-9B26-B3AA32233C6D-low.png)
+

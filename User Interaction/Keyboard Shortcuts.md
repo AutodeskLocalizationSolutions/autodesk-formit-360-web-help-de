@@ -1,109 +1,108 @@
-# Keyboard Shortcuts
+# Tastaturkurzbefehle
 
-----
+---
 
-Speed up your design work with keyboard shortcuts.
+Beschleunigen Sie Ihre Arbeit mit Tastaturkurzbefehlen.
 
-Use these shortcuts to streamline you interaction with the FormIt 360 software.
-
-| | |
-| ---- | ---- |
-| *Edit*   |     |
-| Delete   |  Delete   |
-| Copy   |  Ctrl/CMD + C   |
-
+Verwenden Sie diese Tastaturbefehle, um Ihre Interaktion mit FormIt 360 zu optimieren.
 
 | | |
 | ---- | ---- |
-| Set Axes   |  S Z   |
-| Reset Axes   |  R Z   |
-| Paste   |  Ctrl+V   |
-| Redo   |  Ctrl+Y   |
-| Undo   |  Ctrl+Z   |
-| Redo   |  Ctrl+Shft+Z   |
-| *Draw*   |     |
-| Arc   |  A   |
-| Circle   |  C   |
-| 3D Sketch   |  L   |
-| Rectangle   |  R   |
-| Spline   |  S   |
-| *Tools*   |     |
-| Array   |  A R   |
-| Cut Geometry (Context Menu)   |  C C   |
-| Cut Geometry (Toolbar)   |  C G   |
-| Cover   |  C V   |
-| Extrude Edges   |  E E   |
-| Fillet   |  F I   |
-| Lasso Select   |  L L   |
-| Loft Edges   |  L O   |
-| Measure   |  M   |
-| Measure Angle   |  M A   |
-| Merge Edges and Vertices   |  M E   |
-| Mirror   |  M I   |
-| Multi-Move   |  M M   |
-| Offset Face   |  O F   |
-| Offset Edges   |  O E   |
-| Offset Solid   |  O S   |
-| Reverse Faces   |  F F   |
-| Rotate   |  Q   |
-| Rotate Face   |  Q F   |
-| Scale Face   |  S F   |
-| Shell   |  S H   |
-| Smooth Edges   |  S E   |
-| Sweep   |  S W   |
-| Taper Face   |  T F   |
-| Unsmooth Edges   |  U E   |
-| *Primitive*   |     |
-| Cube   |  ALT+B   |
-| Cylinder   |  ALT+C   |
-| Dome   |  ALT+D   |
-| Prism   |  ALT+R   |
-| Pyramid   |  ALT+P   |
-| *Display*   |     |
-| Ambient Shadows   |  D A   |
-| Axes   |  D Z   |
-| Backfaces   |  D B   |
-| Edges   |  D E   |
-| Extend Lines   |  D X   |
-| Grid   |  D G   |
-| Hidden Lines   |  D H   |
-| Non-Watertight   |  D W   |
-| Shadows   |  D S   |
-| Silhouettes   |  D O   |
-| Sketchy Lines   |  D K   |
-| Thin Edges   |  D T   |
-| *Application Settings*   |     |
-| Display Dimensions   |  D D   |
-| Snap to Grid   |  S G   |
-| Display Levels   |  D L   |
-| Use Levels   |  U L   |
-| *Group*   |     |
-| Edit Group (Context Menu)   |  E   |
-| Edit Group (Toolbar)   |  ALT+E   |
-| Finish Group Action   |  F   |
-| Group (Context Menu)   |  G   |
-| Group (Toolbar)   |  ALT+G   |
-| Make Unique (Context Menu)   |  M   |
-| Make Unique (Toolbar)   |  ALT+M   |
-| Ungroup (Context Menu)   |  U   |
-| Ungroup (Toolbar)   |  ALT+U   |
-| Ungroup All (Context Menu)   |  U A   |
-| Ungroup All (Toolbar)   |  Alt - A   |
-| *View*   |     |
-| 3D View   |  Z D   |
-| First Person Fly-Through   |  F T   |
-| Top   |  Z T   |
-| Zoom All   |  Z A   |
-| Zoom All   |  Z E   |
-| Zoom All   |  Z Z   |
-| Zoom All Images   |  Z I   |
-| *Selection Filter*   |     |
-| Edges   |  E S   |
-| Faces   |  F S   |
-| Groups   |  G S   |
-| Solids   |   S S   |
-| *File*   |     |
-| Save   |  CTRL+S   |
-| *Sketch Settings*   |     |
-| Toggle Unit Type   |  U T   |
+| *Bearbeiten* |  |
+| Löschen | Löschen |
+| Kopieren | Strg/Befehl+C |
+
+| | |
+| ---- | ---- |
+| Achsen festlegen | S Z |
+| Achsen zurücksetzen | R Z |
+| Einfügen | Strg+V |
+| Wiederholen | Strg+Y |
+| Rückgängig | Strg+Z |
+| Wiederherstellen | Strg+Umschalt+Z |
+| *Zeichnen* |  |
+| Bogen | A |
+| Kreis | C |
+| 3D-Skizze | L |
+| Rechteck | R |
+| Spline | S |
+| *Extras* |  |
+| Reihe | A R |
+| Geometrie ausschneiden (Kontextmenü) | C C |
+| Geometrie ausschneiden (Werkzeugkasten) | C G |
+| Abdeckung | C V |
+| Kanten extrudieren | E E |
+| Abrunden | F I |
+| Lasso-Auswahl | L L |
+| Erhebung Kanten | L O |
+| Messen | M |
+| Winkel messen | M A |
+| Kanten und Scheitelpunkte zusammenführen | M E |
+| Spiegeln | M I |
+| Mehrfachbewegung | M M |
+| Fläche versetzen | O F |
+| Kanten versetzen | O E |
+| Volumenkörper versetzen | O S |
+| Flächen umkehren | F F |
+| Drehen | Q |
+| Fläche drehen | Q F |
+| Maßstab Fläche | S F |
+| Shell | S H |
+| Glatte Kanten | S E |
+| Sweep | S W |
+| Fläche verjüngen | T F |
+| Kantenglättung aufheben | U E |
+| *Grundkörper* |  |
+| Würfel | Alt+B |
+| Zylinder | Alt+C |
+| Kuppel | Alt+D |
+| Prisma | Alt+R |
+| Pyramide | Alt+P |
+| *Anzeige* |  |
+| Umgebungsschatten | D A |
+| Achsen | D Z |
+| Rückseiten | D B |
+| Kanten | D E |
+| Linien verlängern | D X |
+| Raster | D G |
+| Verdeckte Linien | D H |
+| Nicht wasserdicht | D W |
+| Schatten | D S |
+| Umrisse | D O |
+| Skizzenartige Linien | D K |
+| Dünne Kanten | D T |
+| *Anwendungseinstellungen* |  |
+| Bemaßungen anzeigen | D D |
+| Objektfang am Raster | S G |
+| Ebenen anzeigen | D L |
+| Ebenen verwenden | U L |
+| *Gruppe* |  |
+| Gruppe bearbeiten (Kontextmenü) | E |
+| Gruppe bearbeiten (Werkzeugkasten) | Alt+E |
+| Aktion für Gruppe fertig stellen | F |
+| Gruppe (Kontextmenü) | G |
+| Gruppe (Werkzeugkasten) | Alt+G |
+| Als eindeutig definieren (Kontextmenü) | M |
+| Als eindeutig definieren (Werkzeugkasten) | Alt+M |
+| Gruppierung aufheben (Kontextmenü) | U |
+| Gruppierung aufheben (Werkzeugkasten) | Alt+U |
+| Gruppierung für alle aufheben (Kontextmenü) | U A |
+| Gruppierung für alle aufheben (Werkzeugkasten) | Alt - A |
+| *Ansicht* |  |
+| 3D-Ansicht | Z D |
+| 3D-Navigation – Begehungsmodus | F T |
+| Oben | Z T |
+| Alles zoomen | Z A |
+| Alles zoomen | Z E |
+| Alles zoomen | Z Z |
+| Zoom: Alle Bilder | Z I |
+| *Auswahlfilter* |  |
+| Kanten | E S |
+| Flächen | F S |
+| Gruppen | G S |
+| Volumenkörper | S S |
+| *Datei* |  |
+| Speichern | Strg+S |
+| *Skizzeneinstellungen* |  |
+| Einheitentyp umschalten | U T |
 

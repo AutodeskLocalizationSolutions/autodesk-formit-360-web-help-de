@@ -1,14 +1,16 @@
-# Inviting Others to a Session
 
-----
 
-Create a collaboration team.
- 
+# Einladen anderer Benutzer zu einer Sitzung
 
-## Inviting Others to a Session
+---
 
-* Click on the 'Invite Others' option from the collaboration drop down menu in the toolbar.
-    
-    ![](Images/GUID-03AAC963-3FA7-459C-8E8D-61AE53A483B4-low.png)
-    
-    You will see a dialog with a session ID for sharing with an iOS user, and a URL for Web sharing. You can copy and share these items or you can click the 'Send Email' button. An email will be automatically generated that you can send to your collaborators. See [Joining a Session](../Joining a Session.md)for more info on how you can join a session on your iOS or Web device. For desktop Web clients, click on the URL in the email to join a session you were invited to.
+Erstellen Sie ein Team für die Zusammenarbeit.
+
+## Einladen anderer Benutzer zu einer Sitzung
+
+* Klicken Sie im Dropdown-Menü im Werkzeugkasten auf die Option Andere Personen einladen.
+
+![](Images/GUID-03AAC963-3FA7-459C-8E8D-61AE53A483B4-low.png)
+
+Ein Dialogfeld mit einer Sitzungs-ID für die gemeinsame Nutzung mit iOS-Benutzern und einer URL für die Internetfreigabe wird angezeigt. Sie können diese Angaben kopieren und freigeben oder auf die Schaltfläche E-Mail senden klicken. Eine E-Mail, die Sie an Ihre Kollegen senden können, wird automatisch generiert. Weitere Informationen zur Teilnahme an einer Sitzung über Ihr iOS- oder Internetgerät finden Sie unter [Teilnahme an einer Sitzung](../Joining a Session.md). Für Desktop-Webclients klicken Sie auf die URL in der E-Mail, um an der Sitzung teilzunehmen, zu der Sie eingeladen wurden.
+

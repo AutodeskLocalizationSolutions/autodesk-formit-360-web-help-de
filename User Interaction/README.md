@@ -1,33 +1,36 @@
-# User Interaction
 
-----
 
-Locate the tools to create and place designs.
- 
+# Benutzerinteraktion
 
-The software's user interface makes use of a particular platform's standard interaction model.
+---
 
-* The key components of the FormIt 360 interface (see [Navigation Tools](../Navigation Tools.md) for tips about interacting with the FormIt 360 software): 
-    
-    ![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
+Hier befinden sich die Werkzeuge zum Erstellen und Platzieren von Entwürfen.
 
-  
+Die Benutzeroberfläche der Software nutzt das Standardinteraktionsmodell der jeweiligen Plattform.
 
-#### Topics in this section
+* Die wichtigsten Komponenten der Benutzeroberfläche von FormIt 360 sind die folgenden (Tipps zur Interaktion mit der FormIt 360-Software finden Sie unter [Navigationswerkzeuge](../Navigation Tools.md)):
 
-* [Context Menu and Right-Side Palettes](../Context Menu and Right-Side Palettes.md)
-    
-    Locate the tools to create and place designs.
-* [User Interface Tools ](../User Interface Tools.md)
-    
-    Reference for command interaction tools.
-* [Project Information Reference ](../Project Information Reference.md)
-    
-    Name your design and keep track of its status.
-* [Navigation Tools](../Navigation Tools.md)
-    
-    Use these movements to engage the user interface.
-* [Keyboard Shortcuts ](../Keyboard Shortcuts.md)
-    
-    Speed up your design work with keyboard shortcuts.
+![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
+
+#### Themen in diesem Abschnitt
+
+* [Kontextmenü und Paletten rechts auf dem Bildschirm](../Context Menu and Right-Side Palettes.md)
+
+Hier befinden sich die Werkzeuge zum Erstellen und Platzieren von Entwürfen.
+
+* [Werkzeuge der Benutzeroberfläche ](../User Interface Tools.md)
+
+Referenz zu den Werkzeugen für Befehlsinteraktion.
+
+* [Referenz zu Projektinformationen ](../Project Information Reference.md)
+
+Benennen Sie Ihren Entwurf und überwachen Sie seinen Status.
+
+* [Navigationswerkzeuge](../Navigation Tools.md)
+
+Diese Funktionen stehen für die Interaktion mit der Benutzeroberfläche zur Verfügung.
+
+* [Tastaturkürzel](../Keyboard Shortcuts.md)
+
+Beschleunigen Sie Ihre Arbeit mit Tastaturkurzbefehlen.
 

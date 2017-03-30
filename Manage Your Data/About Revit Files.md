@@ -1,8 +1,10 @@
-# About Revit Files
 
-----
 
-Save your design in a format that Revit can open and use.
- 
+# Info zu Revit-Dateien
 
-When a FormIt 360 sketch is synchronized to an [Autodesk 360 Drive](https://360.autodesk.com), an RVT file is automatically created for you. You can download the .RVT and open it in Revit 2015, or other software applications that open Revit files.
+---
+
+Sie können Entwürfe in einem Format speichern, das in Revit geöffnet und verwendet werden kann.
+
+Beim Synchronisieren einer FormIt 360-Skizze mit einem [Autodesk 360 Drive](https://360.autodesk.com) wird automatisch eine RVT-Datei erstellt. Diese RVT-Datei können Sie herunterladen und in Revit 2015 oder anderen für Revit-Dateien geeigneten Anwendungen öffnen.
+

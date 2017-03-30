@@ -1,22 +1,25 @@
-# Set a Location
 
-----
 
-Establish a geographic location for your sketch.
+# Festlegen eines Standorts
 
-## Identify Your Location
+---
 
-1. ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png)Click the Location icon from the action bar. You can either search for a specific location or use the map to browse for a location. 
-    
-    You can optionally move the red pin to another location on the map.
-    
-    After you have found your location, make sure you have placed the red pin. Then click the 'Import Satellite Image' button to add the aerial photo to your sketch for reference, model scale, and true north.
-    
-    After searching for the project location, you can optionally:
-    
-    * Click the 'Import Satellite Image' button to add the aerial photo to your sketch for reference, model scale, and true north.
-    * Click Finish Importing to set the location and add the location's satellite image to your drawing area.
-    * Click any of the nearby Weather Stations to review the local historic climate data.
-    * Click Finish. 
-        
-        This action will return you to the drawing area and set the location of the project without importing the satellite image. You can always return later to the Location screen to import the satellite image.
+Legen Sie den geografischen Standort für Ihre Skizze fest.
+
+## Standort identifizieren
+
+1. ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png)Klicken Sie in der Aktionsleiste auf das Symbol Standort. Sie können entweder nach einem bestimmten Standort suchen oder auf der Karte navigieren.
+
+Optional können Sie den roten Pin an einen anderen Standort auf der Karte verschieben.
+
+Wenn Sie den Standort gefunden haben, achten Sie darauf, den roten Pin zu platzieren. Klicken Sie dann auf die Schaltfläche Satellitenbild importieren, um der Skizze das Luftbild hinzuzufügen, das als Referenz, für den Modellmaßstab und zur Angabe des geografischen Nordens verwendet werden kann.
+
+Nachdem Sie den Standort des Projekts ermittelt haben, haben Sie optional folgende Möglichkeiten:
+
+* Klicken Sie auf die Schaltfläche Satellitenbild importieren, um der Skizze das Luftbild hinzuzufügen, das als Referenz, für den Modellmaßstab und zur Angabe des geografischen Nordens verwendet werden kann.
+* Klicken Sie auf Bildimport fertig stellen, um den Standort festzulegen und das dazugehörige Satellitenbild im Zeichenbereich hinzuzufügen.
+* Klicken Sie auf eine der in der Nähe gelegenen Wetterstationen, um historische Klimadaten für das Gebiet zu prüfen.
+* Klicken Sie auf Fertig stellen.
+
+Durch diesen Vorgang gelangen Sie zurück zum Zeichenbereich, und der Standort des Projekts wird festgelegt, ohne das Satellitenbild zu importieren. Sie können später jederzeit zum Bildschirm Standort zurückkehren, um das Satellitenbild zu importieren.
+

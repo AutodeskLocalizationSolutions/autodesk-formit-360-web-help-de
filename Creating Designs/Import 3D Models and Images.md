@@ -1,22 +1,24 @@
-# Import 3D Models and Images
 
-----
 
-Add overlays and images to your designs for a variety of purposes.
- 
+# Importieren von 3D-Modellen und Bildern
 
-Ground overlays add additional information to your sketch or provide a schematic to trace over.
+---
 
-1. Select the import button from the action bar.
+Sie können Ihren Entwürfen für eine Reihe von Verwendungszwecken Überlagerungen und Bilder hinzufügen.
+
+Geländeüberlagerungen ergänzen Ihre Skizze um weitere Informationen oder dienen als Vorlage zum Nachzeichnen.
+
+1. Wählen Sie die Schaltfläche Importieren aus der Aktionsleiste.
 
 ![](Images/GUID-F99E78AA-D9C8-4F3F-BEC8-D97AA9F6FAE6-low.png)
 
-1. Select an image or 3D model from your local or A360 storage area.
+1. Wählen Sie ein Bild oder ein 3D-Modell aus Ihrem lokalen oder A360-Speicher.
 
-You will have the option to scale and crop your image. Your image will then be imported into the canvas.
+Sie können das Bild skalieren und zuschneiden. Das Bild wird dann in den Arbeitsbereich importiert.
 
-1. Use the palette on the right-side of the screen to modify image properties.
+1. Verwenden Sie die Palette an der rechten Seite des Bildschirms, um Bildeigenschaften zu ändern.
 
-Edit the image's name and transparency, if needed. Manage the vertical ordering of various ground overlays including the satellite image.
+Bearbeiten Sie gegebenenfalls den Namen und die Transparenz des Bildes. Sie können die verschiedenen Geländeüberlagerungen, darunter das Satellitenbild, auf unterschiedliche Weise übereinander anordnen.
 
 ![](Images/GUID-B1CE5D3F-BA12-477D-842D-6E74ADE9FD8C-low.png)
+

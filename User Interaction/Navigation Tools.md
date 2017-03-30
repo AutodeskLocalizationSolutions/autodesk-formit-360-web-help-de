@@ -1,51 +1,47 @@
-# Navigation Tools
+# Navigationswerkzeuge
 
-----
+---
 
-Use these movements to engage the user interface.
- 
+Die folgenden Funktionen stehen in der Benutzeroberfläche zur Verfügung.
 
-Key tools for moving around the design area.
+Wichtige Werkzeuge zum Navigieren im Entwurfsbereich.
 
-### View Modes
-
-| | |
-| ---- | ---- |
-| Top View   |   View your project from a top view. You cannot orbit when in this view, but pan and zoom work normally. This view is especially useful when sketching floor plans over an imported sketch, or satellite image.   |
-| 3D View   |   This is the perspective view that FormIt 360 starts in. You can orbit, pan, and zoom to view and edit your model.   |
-| Fly-Through Mode   |   Enter a First person perspective mode at ground level. Your editing tools are disabled, but you can walk or fly-through your model using your keyboard and space bar. When you exit this mode using the esc key, you return to 3D View mode, your point of view is maintained.   |
-
-
-### Navigating the View
-
-| | | |
-| ---- | ---- | ---- |
-| Pan   |   Middle mouse button press and drag   |     |
-| Orbit   |   Mouse right-click and drag   |     |
-| Zoom in and out   |   Middle mouse scroll wheel   |     |
-
-
-### Create Geometry Gestures
-
-| | | |
-| ---- | ---- | ---- |
-| Copy Objects   |   Select object, ctrl+C, then click ctrl+V   |   ![](Images/GUID-259ECCFB-1E73-4F8D-841F-E9DBBCCA2703-low.png)   |
-| Draw 2D Shapes   |   Click on the line, arc, spline, circle, or rectangle tool, then click in canvas to draw.   |   ![](Images/GUID-480B99B0-30BB-47AD-A5A5-00489289F5B5-low.png)   |
-| Extrude Shapes   |   Click to select a face, then click and drag your mouse - click again to finish extruding a face.   |   ![](Images/GUID-CAF089B7-8EA3-4ECD-B5F6-A6737FAA26F4-low.png)   |
-| Place a Primitive   |   Click on primitive from action bar, then click in the canvas.   |   ![](Images/GUID-853590B0-9195-466B-AFBF-C4A8332DAEEC-low.png)   |
-
-
-#### Fly-Through Mode
-
-* ![](Images/GUID-D21822AD-1980-43E9-8510-8434062E959D-low.png)Fly-through mode lets you choose a perspective for the camera angle view of your design. It also lets you perform an automated aerial overview of the drawing area. Use the Jet Pack icon to enter fly-through mode.
-
-### Fly-Through Mode Keyboard Controls
+### Ansichtsmodi
 
 | | |
 | ---- | ---- |
-| Walk   |   W moves forward, S moves backwards, A moves left, D moves right   |
-| Climb   |   Q steps up, E steps down   |
-| Jet Pack   |   Space bar lifts off   |
-| Look Around   |   Mouse point to where you want to look   |
-| Exit   |   Press esc to exit Fly-through mode   |
+| Draufsicht|Anzeige Ihres Projekts von oben. In dieser Ansicht ist das Umkreisen nicht möglich, Schwenken und Zoom können jedoch normal verwendet werden. Diese Ansicht ist besonders hilfreich beim Skizzieren von Grundrissen über einer importierten Skizze oder einem Satellitenbild. |
+| 3D-Ansicht|Dies ist die perspektivische Ansicht, mit der FormIt 360 gestartet wird. Sie können Ihr Modell umkreisen, schwenken und zoomen, um es anzuzeigen und zu bearbeiten. |
+| 3D-Navigationsmodus|Wechselt in einen perspektivischen Begehungsmodus auf Bodenebene. Die Bearbeitungswerkzeuge sind deaktiviert, Sie können sich jedoch mithilfe der Leertaste und anderer Tastaturbefehle im 2D- und 3D-Modus durch das Modell bewegen. Wenn Sie diesen Modus mithilfe der Esc-Taste beenden, kehren Sie in den 3D-Ansichtsmodus zurück, wobei Ihr aktueller Blickpunkt erhalten bleibt. |
+
+### Navigieren in der Ansicht
+
+| | | |
+| ---- | ---- | ---- |
+| Schwenken | Mittlere Maustaste drücken und ziehen |  |
+| Orbit | Mit der rechten Maustaste klicken und Maus ziehen | |
+| Vergrößern/Verkleinern | Mittlere Maustaste/Mausrad |  |
+
+### Gesten zum Erstellen von Geometrie
+
+| | | |
+| ---- | ---- | ---- |
+| Objekte kopieren | Objekt wählen, Strg + C, dann klicken, Strg + V | ![](Images/GUID-259ECCFB-1E73-4F8D-841F-E9DBBCCA2703-low.png) |
+| 2D-Formen zeichnen | Klicken Sie auf eines der Werkzeuge Linie, Bogen, Spline, Kreis oder Rechteck, und zeichnen Sie durch Klicken im Zeichenbereich. | ![](Images/GUID-480B99B0-30BB-47AD-A5A5-00489289F5B5-low.png) |
+| Formen extrudieren | Klicken Sie auf eine Fläche, um sie auszuwählen. Ziehen Sie bei gedrückter Maustaste, und klicken Sie schließlich erneut, um die Extrusion der Fläche abzuschließen. | ![](Images/GUID-CAF089B7-8EA3-4ECD-B5F6-A6737FAA26F4-low.png) |
+| Grundkörper platzieren | Klicken Sie in der Aktionsleiste auf einen Grundkörper und dann in den Zeichenbereich. | ![](Images/GUID-853590B0-9195-466B-AFBF-C4A8332DAEEC-low.png) |
+
+#### 3D-Navigationsmodus
+
+* ![](Images/GUID-D21822AD-1980-43E9-8510-8434062E959D-low.png)Im 3D-Navigationsmodus können Sie die Perspektive für den Blickwinkel der Kamera in Ihrem Entwurf wählen. Darüber hinaus können Sie ein automatisches Luftbild als Überblick über den Zeichenbereich erstellen. Verwenden Sie zum Wechseln in den 3D-Navigationsmodus das Jetpack-Symbol.
+
+### Tastaturkurzbefehle für den 3D-Navigationsmodus
+
+| | |
+| ---- | ---- |
+| 2D-Navigation | W – Vorwärts, S – Rückwärts, A – Links, D – Rechts |
+| 3D | Q – Schritt nach oben, E – Schritt nach unten |
+| Jetpack | Leertaste bewirkt "Abheben" |
+| Umsehen | Mauszeiger an den Zielpunkt für die Blickrichtung |
+| Beenden | Esc drücken, um den 3D-Navigationsmodus zu beenden |
 

@@ -1,16 +1,19 @@
-# Apply Levels
 
-----
 
-Like the Revit software, you can use level values to define a vertical height or story within a building sketch.
+# Anwenden von Ebenen
 
-See About Levels to understand levels.
+---
 
-## Apply Levels to Objects
+Wie in Revit können Sie auch hier mithilfe von Ebenenwerten die Höhe bzw. das Geschoss in einer Gebäudeskizze definieren.
 
-1. Select the entire object and then open the right-side Properties palette
-2. Click the Use Levels check box
-3. Click the checkbox for each level you want applied to this object
-4. The Properties palette will display the total Gross area for each level as well as a total for this object
+Weitere Informationen zu Ebenen finden Sie unter Info zu Ebenen.
+
+## Ebenen auf Objekte anwenden
+
+1. Wählen Sie das gesamte Objekt aus und öffnen Sie die Eigenschaftenpalette an der rechten Seite.
+2. Aktivieren Sie das Kontrollkästchen Ebenen verwenden.
+3. Aktivieren Sie das Kontrollkästchen für jede Ebene, die Sie auf das Objekt anwenden möchten.
+4. In der Eigenschaftenpalette werden die Gesamtbruttofläche jeder Ebene sowie die Summe für das betreffende Objekt angezeigt.
 
 5. ![](Images/GUID-EFE18738-2249-4331-B1C4-693F403127E0-low.png)
+

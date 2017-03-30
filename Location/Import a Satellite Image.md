@@ -1,28 +1,32 @@
-# Import a Satellite Image
 
-----
 
-Add detail and realism to your design.
- 
+# Importieren eines Satellitenbilds
 
-Satellite images and weather station data add important information to your designs.
+---
 
-#### Import Satellite Image
+Gestalten Sie Ihren Entwurf detaillierter und wirklichkeitgetreuer.
 
-1. Click on the Location icon from the action tool bar.
-2. Search for a specific location or use the map view to pan and zoom to set a location.
-3. Click to place the red pin after you have found your location.
-4. Click Import Satellite Image to add the aerial photo to your sketch.
-5. Use the dialog that appears to crop the satellite image to show the relevant context for your sketch.
-6. Either: 
-    * Click Finish. 
-        
-        This action will return you to the drawing area and set the location of the project without importing the satellite image. You can always return later to the Location screen to import the satellite image.
-    * Click Finish Importing to set the location and add the location's satellite image to your drawing area.
+Satellitenbilder und Daten aus Wetterstationen ergänzen Ihre Entwürfe um wichtige Informationen.
+
+#### Satellitenbild importieren
+
+1. Klicken Sie in der Aktionsleiste auf das Symbol Standort.
+2. Sie können entweder nach einem bestimmten Standort suchen oder die Kartenansicht schwenken und zoomen, um den Standort zu ermitteln.
+3. Wenn Sie den Standort gefunden haben, klicken Sie, um den roten Pin zu setzen.
+4. Klicken Sie auf Satellitenbild importieren, um das Luftbild in der Skizze zu platzieren.
+5. Verwenden Sie das daraufhin angezeigte Dialogfeld, um das Satellitenbild zuzuschneiden, sodass es den für Ihre Skizze relevanten Kontext zeigt.
+6. Verwenden Sie eine der folgenden Vorgehensweisen:
+
+* Klicken Sie auf Fertig stellen.
+
+Durch diesen Vorgang gelangen Sie zurück zum Zeichenbereich, und der Standort des Projekts wird festgelegt, ohne das Satellitenbild zu importieren. Sie können später jederzeit zum Bildschirm Standort zurückkehren, um das Satellitenbild zu importieren.
+
+* Klicken Sie auf Bildimport fertig stellen, um den Standort festzulegen und das dazugehörige Satellitenbild im Zeichenbereich hinzuzufügen.
 
 ![](Images/GUID-E5BA7A6F-D280-4FFE-8561-9BEDCCD38759-low.png)
 
-1. Click any of the nearby Weather Stations to review the local historic climate data.
-2. Click the X in the upper right corner to dismiss the weather station display.
+1. Klicken Sie auf eine der in der Nähe gelegenen Wetterstationen, um historische Klimadaten für das Gebiet zu prüfen.
+2. Klicken Sie auf das X in der rechten oberen Ecke, um die Anzeige der Wetterstation auszublenden.
 
 ![](Images/GUID-1AED3D3E-303F-466F-848E-E664759BDB03-low.png)
+

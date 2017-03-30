@@ -1,44 +1,49 @@
-# Using Groups
 
-----
 
-Bundle together one or more objects into clusters that you can easily manipulate.
- 
+# Verwenden von Gruppen
 
-Groups help you create geometry more efficiently.
+---
 
-* After you create objects by placing primitives or sketching shapes, you can group sets of them together so that they are treated as a single reusable object. You can copy a group to create *instances*, objects that are linked so that making changes to one will update the others. Groups are useful for organizing your sketch and when you quickly want to update similar objects.
-* A toolbar provides ready access to the grouping tools: Group, Ungroup, Make Unique, and Edit (these tools also appear on the Context Menu). The Toolbar tools let you choose an action first, followed by the object on which you want to execute the action. The Context menu reverses this order (at the cost of one extra click): You choose an object first and then choose an action to perform on that object. This action/selection order makes Toolbar Edit the better choice to edit nested groups. You can also use keyboard shortcuts: G, E, F (Group, Edit, Finish) plus U (Ungroup) and M (Make Unique).
+Sie können ein oder mehrere Objekte zu Gruppen zusammenfassen, die sich leicht bearbeiten lassen.
+
+Gruppen ermöglichen eine effizientere Erstellung von Geometrie.
+
+* Nachdem Sie durch Platzieren von Grundkörpern oder Skizzieren von Formen Objekte erstellt haben, können Sie diese in Gruppen zusammenfassen, die jeweils als einzelnes wiederverwendbares Objekt behandelt werden. Durch Kopieren einer Gruppe erstellen Sie *Exemplare*. Solche Objekte sind miteinander verknüpft, d. h., Änderungen an einem Objekt bewirken die Aktualisierung auch der übrigen Objekte. Gruppen sind hilfreich beim Strukturieren von Skizzen und für die schnelle Aktualisierung ähnlicher Objekte.
+* Die Werkzeuge für die Gruppierung sind über einen Werkzeugkasten problemlos zugänglich: Gruppe, Gruppierung aufheben, Als eindeutig definieren und Bearbeiten. (Diese Befehle sind auch im Kontextmenü enthalten.) Bei den Werkzeugen im Werkzeugkasten wählen Sie zuerst die Aktion und danach das Objekt, auf das diese angewendet werden soll. Beim Kontextmenü gehen Sie in umgekehrter Reihenfolge vor (was einen zusätzlichen Mausklick erforderlich macht): Sie wählen zuerst ein Objekt und dann die für dieses Objekt auszuführende Aktion. Aufgrund dieser Abfolge von Aktion und Auswahl ist der Werkzeugkasten für die Bearbeitung verschachtelter Gruppen besser geeignet. Sie können auch Tastaturbefehle verwenden: G, E, F (Gruppe, Bearbeiten, Fertig stellen) sowie U (Gruppierung aufheben) und M (Als eindeutig definieren).
 
 ![](Images/GUID-5309CD68-890C-421C-B91E-A291EC5DD99B-low.png) ![](Images/GUID-1A6C63E4-89A5-4C7C-BCC2-F540265090AF-low.png)
 
-Only certain elements of an object can be grouped: an entire object, a face, and an independent edge. Vertices and owned edges cannot be grouped.
+Nur bestimmte Elemente eines Objekts können gruppiert werden: ein ganzes Objekt, eine Fläche und eine unabhängige Kante. Scheitelpunkte und zu anderen Elementen gehörige Kanten können nicht gruppiert werden.
 
-You can create an array of objects from a single instance and select a check box to group the arrayed objects.
+Sie können eine Reihe von Objekten aus einem einzelnen Exemplar erstellen und mithilfe eines Kontrollkästchens die Objekte in der Reihe zu einer Gruppe zusammenfassen.
 
 ![](Images/GUID-75F6387F-7417-4F0A-A20D-D929B6163893-low.png)
 
-  
+#### Themen in diesem Abschnitt
 
-#### Topics in this section
+* [Gruppieren/Aufheben der Gruppierung von Objekten](../Group-Ungroup Objects.md)
 
-* [Group/Ungroup Objects](../Group-Ungroup Objects.md)
-    
-    Place geometry into clusters to allow easier manipulation.
-* [Edit Group](../Edit Group.md)
-    
-    Update or make changes to an existing group.
-* [Make Group Unique](../Make Group Unique.md)
-    
-    Copy a set of objects and then disconnect them from the original Group definition.
-* [Nest Groups](../Nest Groups.md)
-    
-    Cluster like elements within a design.
-* [Scale a Group](../Scale a Group.md)
-    
-    Scale a Group instance while maintaining the relationship to other instances
-* [Apply Levels and Materials to a Group ](../Apply Levels and Materials to a Group.md)
-    
-    A way to affect many objects at once.
-* [Group Axes and Work Planes](../Group Axes and Work Planes.md)
+Nehmen Sie Geometrie zur einfacheren Bearbeitung in Gruppen auf.
+
+* [Gruppe bearbeiten](../Edit Group.md)
+
+Aktualisieren oder Ändern einer vorhandenen Gruppe.
+
+* [Gruppe eindeutig machen](../Make Group Unique.md)
+
+Kopieren einer Gruppe von Objekten und Lösen von der ursprünglichen Gruppendefinition.
+
+* [Verschachteln von Gruppen](../Nest Groups.md)
+
+Zusammenfassen ähnlicher Elemente innerhalb eines Entwurfs.
+
+* [Skalieren von Gruppen](../Scale a Group.md)
+
+Skalieren eines Gruppenexemplars unter Beibehaltung der Beziehung zu anderen Exemplaren.
+
+* [Anwenden von Ebenen und Materialien auf eine Gruppe ](../Apply Levels and Materials to a Group.md)
+
+Eine Möglichkeit, zahlreiche Objekte gleichzeitig zu bearbeiten.
+
+* [Gruppenachsen und Arbeitsebenen](../Group Axes and Work Planes.md)
 

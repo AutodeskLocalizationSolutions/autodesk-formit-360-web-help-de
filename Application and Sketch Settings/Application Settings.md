@@ -1,13 +1,12 @@
-# Application Settings
+# Anwendungseinstellungen
 
-----
+---
 
-Modify application-wide settings to change how the entire FormIt 360 app appears and behaves.
- 
+Mit Anwendungseinstellungen bestimmen Sie die Darstellung und das Verhalten der gesamten FormIt 360-App.
 
-### Application Settings
+### Anwendungseinstellungen
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-BBCCE975-898B-4A08-9C7F-64577981470F-low.png)   |   <br>* *Snap to grid*: Toggle this feature to turn grid snaps on and off **<br>* *Display dimensions*: Shows numerical values for an object's length, width, etc. **<br>* *Screen Space Lines:* Enable this feature to improve the graphic display of complex models. Control the contrast of silhouette edges as well as regular edges. **<br>* *Edge Contrast:* Raise or lower the contrast of how edges are displayed. <br>    <br>    **<br>    <br>    *Silhouette Contrast:*Raise or lower the contrast of how silhouette edges are displayed.<br>  |
+| ![](Images/GUID-BBCCE975-898B-4A08-9C7F-64577981470F-low.png) | <br>* *Rasterfang*: Mit dieser Funktion aktivieren oder deaktivieren Sie den Rasterfang.**<br>* *Bemaßungen anzeigen*: Zeigt numerische Werte für die Länge, Breite usw eines Objekts an. **<br>* *Bildschirmlinien:* Aktivieren Sie diese Funktion, um die grafische Darstellung komplexer Modelle zu verbessern. Sie können den Kontrast sowohl von Silhouettenkanten als auch normaler Kanten steuern. **<br>* *Kantenkontrast:* Verstärken oder reduzieren Sie den Kontrast bei der Anzeige von Kanten.<br> <br> **<br> <br> *Silhouettenkontrast:* Verstärken oder reduzieren Sie den Kontrast bei der Anzeige von Silhouettenkanten.<br> |
 

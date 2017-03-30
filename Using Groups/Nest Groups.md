@@ -1,13 +1,16 @@
-# Nest Groups
 
-----
 
-Cluster like elements within a design.
+# Verschachteln von Gruppen
 
-You can treat groups as container elements, within which other smaller groups live. These nested groups can be used to create larger group structures
+---
 
-1. Select an existing group.
-2. Add one or more new objects to the group.
-3. Select objects or faces that you want to add to a second group.
-4. Display the Context Menu and click the Group icon.
-5. Click (Finish) in the upper left corner.![](Images/GUID-8FC20E8B-8988-4F0D-B79A-D18B5FA00134-low.png)
+Dies sind clusterähnliche Elemente in einem Entwurf.
+
+Gruppen können als Containerelemente behandelt werden, in denen kleinere Gruppen enthalten sind. Aus diesen verschachtelten Gruppen können Sie größere Gruppenstrukturen erstellen.
+
+1. Wählen Sie eine vorhandene Gruppe aus.
+2. Fügen Sie ihr ein oder mehrere neue Objekte hinzu.
+3. Wählen Sie Objekte oder Flächen aus, die Sie einer zweiten Gruppe hinzufügen möchten.
+4. Rufen Sie das Kontextmenü auf und klicken Sie auf das Symbol Gruppe.
+5. Klicken Sie in der oberen linken Ecke auf (Fertig stellen). ![](Images/GUID-8FC20E8B-8988-4F0D-B79A-D18B5FA00134-low.png)
+

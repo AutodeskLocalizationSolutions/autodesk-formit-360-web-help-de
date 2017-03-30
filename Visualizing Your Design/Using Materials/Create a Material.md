@@ -1,24 +1,25 @@
-# Create a Material
-
-----
-
-Use the Material Editor to create new materials to use in your scene.
-
-You can create your own materials based on custom bitmap files.
-
-## Create a Material
-
-1. Click the Add Material Button.
-2. From the [Edit Material](../Edit a Material.md) window, make the necessary changes to the material properties.
-3. Click OK to save the changes to the material.
-
-## Import an Autodesk Material ![](Images/GUID-04CB861E-010B-491D-8CA1-699C79100979-low.png)
-
-If you have purchased the optional [FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy), you will be able to import materials from the Autodesk Materials library.
 
 
-1. Click Import Material from the Material Palette.
-2. From the Import Material, browse or search by name to select a material to import into the scene and click OK.
-3. The material can now be [applied](../Apply a Material.md) or [edited](../Edit a Material.md) like any other material.
+# Erstellen eines Materials
+
+---
+
+Verwenden Sie den Material-Editor zum Erstellen neuer Materialien für Ihre Szene.
+
+Sie können eigene Materialien aus benutzerdefinierten Bitmap-Dateien erstellen.
+
+## Material erstellen
+
+1. Klicken Sie auf die Schaltfläche Material hinzufügen.
+2. Nehmen Sie im Fenster [Material bearbeiten](../Edit a Material.md) die nötigen Änderungen an den Materialeigenschaften vor.
+3. Klicken Sie auf OK, um die Änderungen am Material zu speichern.
+## Importieren eines Autodesk-Materials
+
+Wenn Sie das optionale [FormIt 360 Pro-Abonnement](http://www.autodesk.com/products/formit-360/try-buy) erworben haben, können Sie Materialien aus der Autodesk-Materialbibliothek importieren.
+
+1. Klicken Sie in der Materialpalette auf Material importieren.
+2. Suchen Sie unter Material importieren das gewünschte Material anhand seines Namens, um es für den Import in die Szene auszuwählen, und klicken Sie auf OK.
+3. Das Material kann jetzt wie jedes andere Material [angewendet](../Apply a Material.md) oder [bearbeitet](../Edit a Material.md) werden.
 
 ![](Images/GUID-11B4AA4F-C534-48DA-AAA8-292D07E366F3-low.jpg)
+

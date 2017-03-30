@@ -1,13 +1,13 @@
-# Sketch Settings
+# Skizzeneinstellungen
 
-----
+---
 
-Change sketch-specific settings to change how the current sketch appears and behaves.
+Mithilfe spezieller Einstellungen für Skizzen können Sie die Darstellung und das Verhalten der aktuellen Skizze ändern.
 
-### Sketch Settings
+### Skizzeneinstellungen
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-E8CB6399-D221-4F28-81A6-75CE6D4A3C2D-low.png)   |   <br>*Units*: Change units to Imperial (feet and inches) or Metric<br><br>*Visual Style* <br>* *High Definition*: Improve how graphics appear on high pixel density displays. This setting may result in decreased performance<br>* *Display ambient shadows*: Toggle this feature to add a soft shadow effect to your model<br>* *Display edges*: Toggle this feature to turn off edges in your model. This option works well with Ambient shadows for presentations<br>* *Display silhouette outlines*: Forms will be emphasized by drawing a slightly wider line around the silhouette edges<br>* *Display wide lines*: Widest lines possible<br>* *Display sketchy lines*: Change the appearance of your sketch by toggling making lines to appear that they have been sketched by hand<br>* *Show hidden lines*: Display faint lines that are normally hidden by other faces<br>* *Display extended edges*: Display short extensions where lines intersect<br>* *Display grid*: Toggle the visibility of the grid<br>* *Display axes: *Toggle the visibility of the coordinate system axes<br>* *Display north arrow: *Toggle the visibility of the north arrow<br>* *Display levels*: Toggle the visibility of the levels<br><br>  |
-| ![](Images/GUID-5A845410-7137-4375-9B5F-1B8DEE15BD56-low.png)   |   <br>*Model Diagnostics*<br><br>* *Display Backfaces: *Faces that are abnormally facing outward will be displayed in a purple color<br>* *Display Watertight Issues*: Holes in faces and lines/edges not associated with an object will be displayed in a purple color<br>  |
+| ![](Images/GUID-E8CB6399-D221-4F28-81A6-75CE6D4A3C2D-low.png) | <br>*Einheiten*: Ändern der Einheiten in britische (Fuß und Zoll) oder metrische<br><br>*Bildstil* <br>* *High Definition*: Ermöglicht eine verbesserte Darstellung von Grafik auf Displays mit hoher Pixeldichte. Diese Einstellung kann Leistungseinbußen verursachen.<br>* *Display ambient shadows*: Aktivieren Sie diese Funktion, um dem Modell weiche Schatten hinzuzufügen.<br>* *Display edges*: Durch Aktivieren bzw. Deaktivieren dieser Funktion blenden Sie Kanten im Modell ein bzw. aus. Diese Option lässt sich für Präsentationen gut zusammen mit Umgebungsschatten einsetzen.<br>* *Display silhouette outlines*: Betont Formen durch Zeichnen einer etwas stärkeren Umrisslinie für Silhouetten.<br>* *Display wide lines*: Die breitestmöglichen Linien.<br>* *Display sketchy lines*: Ändern Sie die Darstellung Ihrer Skizze durch Aktivieren oder Deaktivieren einer Liniendarstellung, die wie von Hand gezeichnet wirkt.<br>* *Show hidden lines*: Zeigt schwache Linien an Stellen an, die normalerweise durch andere Flächen verdeckt sind.<br>* *Display extended edges*: Zeigt an Schnittpunkten von Linien kurze Verlängerungen an.<br>* *Display grid*: Blendet das Raster ein oder aus.<br>* *Display axes: *Blendet die Achsen des Koordinatensystems ein oder aus.<br>* *Display north arrow: *Blendet den Nordpfeil ein oder aus.<br>* *Display levels*: Blendet die Ebenen ein oder aus.<br><br> |
+| ![](Images/GUID-5A845410-7137-4375-9B5F-1B8DEE15BD56-low.png) | <br>*Modelldiagnose*<br><br>* *Display Backfaces: *Flächen, die an der Außenseite liegen, obwohl dies nicht der Fall sein dürfte, werden violett angezeigt.<br>* *Display Watertight Issues*: Löcher in Flächen und Linien/Kanten, die nicht mit einem Objekt verbunden sind, werden violett angezeigt.<br> |
 

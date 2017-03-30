@@ -1,27 +1,28 @@
-# Location
 
-----
 
-Define a geographic location to make use of building performance and climate data with your designs.
- 
+# Standort
 
-To maximize the functionality of your designs, you should define the geographic location of your sketch using the Location feature. Setting the location is important when you want to use Building Performance data while designing. See[ Building Performance](../../Building Performance/README.md) for more details.
+---
+
+Die Angabe des geografischen Standorts ermöglicht es, Daten zu Gebäudenutzbarkeit und Klima für Ihre Entwürfe zu verwenden.
+
+Definieren Sie für eine maximale Funktionsfähigkeit Ihrer Entwürfe den geografischen Standort Ihrer Skizze mithilfe der Funktion Standort. Die Angabe des Standorts ist wichtig, damit Gebäudenutzbarkeitsdaten während der Arbeit am Entwurf verwendet werden können. Weitere Informationen finden Sie unter [Gebäudenutzbarkeit](../../Building Performance/README.md).
 
 ![](Images/GUID-72455568-7551-4B79-90D7-19A6554419EA-low.png)
 
-* You can [import](../../Creating Designs/Import 3D Models and Images.md) context geometry from your local file system using OBJ, STL or AXM formats.
+* Sie können Kontextgeometrie in den Formaten OBJ, STL oder AXM aus Ihrem lokalen Dateisystem [importieren](../../Creating Designs/Import 3D Models and Images.md).
 
-  
+#### Themen in diesem Abschnitt
 
-#### Topics in this section
+* [Festlegen eines Standorts](../Set a Location.md)
 
-* [Set a Location](../Set a Location.md)
-    
-    Establish a geographic location for your sketch.
-* [Import a Satellite Image](../Import a Satellite Image.md)
-    
-    Add detail and realism to your design.
-* [Edit, Reload, or Remove a Satellite Image](../Edit, Reload, or Remove a Satellite Image.md)
-    
-    Make changes to your location images.
+Legen Sie den geografischen Standort für Ihre Skizze fest.
+
+* [Importieren eines Satellitenbilds](../Import a Satellite Image.md)
+
+Gestalten Sie Ihren Entwurf detaillierter und wirklichkeitgetreuer.
+
+* [Bearbeiten, Neuladen oder Entfernen eines Satellitenbilds](../Edit, Reload, or Remove a Satellite Image.md)
+
+Sie können Änderungen an den Bildern für Ihren Standort vornehmen.
 

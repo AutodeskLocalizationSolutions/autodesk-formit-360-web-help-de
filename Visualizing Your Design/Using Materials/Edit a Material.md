@@ -1,28 +1,34 @@
-# Edit a Material
 
-----
 
-Use the Material Editor to make materials appear exactly as you want.
+# Bearbeiten eines Materials
 
-The texture, color, and other properties of Materials can be modified in the Material Editor.
+---
 
-## Edit a Material
+Der Material-Editor ermöglicht es Ihnen, Materialien genau nach Ihren Vorstellungen darzustellen.
 
-1. Select a material.
-2. Choose the Edit icon.
+Die Textur, die Farbe und andere Eigenschaften von Materialien können im Material-Editor bearbeitet werden.
+
+## Bearbeiten eines Materials
+
+1. Wählen Sie ein Material.
+2. Wählen Sie das Symbol Bearbeiten.
 
 3. ![](Images/GUID-71FCAC8F-6698-4ACF-B681-A9DA8AE9C84C-low.png)
 
-4. From the Edit Material window, you can change the following properties - which will update the preview image on the right. 
-    * *Name*: To help identify the material
-    * *Texture*:Textures are images loaded from your local drive. Once imported, you can crop, and edit the horizontal and vertical scale of the texture. 
-        
-        ![](Images/GUID-9EEAD5EE-D2B7-491B-A947-79E865878C17-low.png)
-    * *Color*: When a material has both texture and color, the two are multiplied together.
-    * *Bump*: Load a texture to apply bumpiness based on the image.
-    * *Cutout*: Load a black and white bitmap. The white areas will appear solid and the black areas will be transparent.
-    * *Opacity*: A higher value means the material will be more transparent.
-    * *Gloss*: A higher value will add a shiny gloss effect to the material.
-    * *Reflection Direct*: A higher value will increase the amount of reflectivity visible when looking directly at a face.
-    * *Reflection: Oblique*: A higher value will increase the amount of reflectivity visible when looking at a face from an oblique angle.
-5. Click OK to save the changes to the material.
+4. Im Fenster Material bearbeiten können Sie die folgenden Eigenschaften ändern, wobei jeweils das Vorschaubild auf der rechten Seite aktualisiert wird.
+
+* *Name*: Zur Identifizierung des Materials.
+* *Textur*: Texturen sind von Ihrem lokalen Laufwerk geladene Bilder. Nachdem Sie diese importiert haben, können Sie die Textur zuschneiden und ihren Maßstab in horizontaler und vertikaler Richtung ändern.
+
+![](Images/GUID-9EEAD5EE-D2B7-491B-A947-79E865878C17-low.png)
+
+* *Farbe*: Bei Materialien, die sowohl Textur als auch Farbe aufweisen, werden beide miteinander multipliziert.
+* *Bump*: Laden Sie eine Textur, um Unregelmäßigkeiten auf Basis des Bildes hinzuzufügen.
+* *Ausschnitt*: Laden Sie eine schwarz-weiße Bitmap. Die weißen Bereiche werden ausgefüllt, die schwarzen sind transparent.
+* *Opazität*: Mit einem höheren Wert erhalten Sie ein transparenteres Material.
+* *Glanz*: Ein höherer Wert bewirkt einen Glanzeffekt für das Material.
+* *Reflexion direkt*: Ein höherer Wert bewirkt stärkere Reflexionen bei direktem Blick auf eine Fläche.
+* *Reflection: Oblique*: Ein höherer Wert bewirkt stärkere Reflexionen bei schräger Blickrichtung auf eine Fläche.
+
+5. Klicken Sie auf OK, um die Änderungen am Material zu speichern.
+

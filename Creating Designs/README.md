@@ -1,50 +1,52 @@
-# Creating Designs
 
-----
 
-Sketch or place geometric shapes onto grid backgrounds, satellite images, or overlays.
- 
-* Create conceptual models using 2D and 3D geometry creation tools. Start off by sketching 2D shapes or placing 3D primitives. Then, you can modify your designs by pushing and pulling faces, and by using various transform tools and Boolean operations. ![](Images/GUID-3E873180-70F5-4CBB-8293-D935A709EA52-low.png)
+# Erstellen von Entwürfen
 
-There are two main ways to create geometry: Sketching shapes, and placing primitives. You can also import geometry.
+---
 
-There are 5 types of tools that you can sketch with: Lines, Arcs, Splines, Rectangles, and Circles.
+Sie können geometrische Formen auf Hintergrundrastern, Satellitenbildern oder Überlagerungen skizzieren oder platzieren.
 
-#### Sketching Shapes
+* Mit Werkzeugen zur Erstellung von 2D- und 3D-Geometrie erstellen Sie Entwurfsmodelle. Beginnen Sie, indem Sie 2D-Formen skizzieren oder 3D-Grundkörper platzieren. Anschließend können Sie Ihre Entwürfe durch Schieben und Ziehen von Flächen sowie mithilfe verschiedener Transformationswerkzeuge und Boolescher Operationen bearbeiten. ![](Images/GUID-3E873180-70F5-4CBB-8293-D935A709EA52-low.png)
 
-* Creation tools are located in the action bar. You create shapes by clicking on a tool from the Sketch tool set. Then, click in the view to define the shape.![](Images/GUID-1013F3AF-1F01-47D6-91FC-F9FAF60802EA-low.png)
+Es gibt zwei grundlegende Möglichkeiten zum Erstellen von Geometrie: Skizzieren von Formen und Platzieren von Grundkörpern. Sie können außerdem Geometrie importieren.
 
-There are 5 types of 3D primitives that you can place: Cubes, Domes, Cylinders, Prisms, and Pyramids.
+Zum Skizzieren stehen fünf Arten von Werkzeugen zur Verfügung: Linien, Bogen, Splines, Rechtecke und Kreise.
+
+#### Skizzieren von Formen
+
+* Erstellungswerkzeuge befinden sich in der Aktionsleiste. Zum Erstellen von Formen klicken Sie auf ein Werkzeug aus dem Werkzeugkasten Sketch. Klicken Sie dann in die Ansicht, um die Form zu definieren.![](Images/GUID-1013F3AF-1F01-47D6-91FC-F9FAF60802EA-low.png)
+
+Es stehen fünf Arten dreidimensionaler Grundkörper zur Verfügung: Würfel, Kuppeln, Zylinder, Prismen und Pyramiden.
 
 ![](Images/GUID-D7198AD2-9AC0-49EE-B6D7-3A467D0DCF68-low.png)
 
-#### Placing Primitives
+#### Platzieren von Grundkörpern
 
-* You can place primitives by clicking on a tool from the Geometry Creation toolbar. Then, click in the canvas to place the geometry.![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)
+* Zum Platzieren von Grundkörpern klicken Sie auf ein Werkzeug aus dem Werkzeugkasten Geometry Creation. Klicken Sie dann in den Ansichtsbereich, um die Geometrie zu platzieren. ![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)
 
-To create more complex designs after sketching a shape or placing a primitive, you can use several contextual tools to modify your geometry. These operations include: Select, Delete, Move, Scale, Rotate, Extrude, Cut Face, Offset Face, Tilt, Copy/Paste, Array, Cover, Sweep, Loft, and Boolean Cut and Join. Use the topics in the following list to learn more about these operations.
+Um komplexere Entwürfe zu erstellen, nachdem Sie eine Form skizziert oder einen Grundkörper eingefügt haben, können Sie die Geometrie mithilfe einer Reihe kontextabhängiger Werkzeuge bearbeiten. Zu diesen Operationen zählen: Auswählen, Löschen, Verschieben, Maßstab, Drehen, Extrusion, Fläche schneiden, Fläche versetzen, Neigen, Kopieren/Einfügen, Reihe, Abdeckung, Sweep, Erhebung und Boolesche Schnitt- und Vereinigungsfunktion. In den Themen in der folgenden Liste erfahren Sie mehr zu diesen Operationen.
 
-#### See Also
+#### Siehe auch
 
-* [Modify: Delete/Edit/Move ](../../Modify Designs/Modify Delete, Edit, Move.md)
-* [Modify: Extrude/Cut/Offset Face ](../../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
-* [Modify: Select Edge/Face ](../../Modify Designs/Modify Select Edge-Face or Object.md)
-* [Modify: Scale/Rotate ](../../Modify Designs/Modify Scale and Rotate.md)
-* [Modify: Tilt/Array/Copy/Paste ](../../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
-* [Modify: Boolean Operations ](../../Modify Designs/Modify Boolean Operations.md)
-* [Modify: Cover/Sweep/Loft ](../../Modify Designs/Modify Cover, Sweep, Loft.md)
+* [Ändern: Löschen/Bearbeiten/Verschieben](../../Modify Designs/Modify Delete, Edit, Move.md)
+* [Ändern: Extrusion/Ausschneiden/Fläche versetzen ](../../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
+* [Ändern: Kante/Fläche wählen](../../Modify Designs/Modify Select Edge-Face or Object.md)
+* [Ändern: Maßstab/Drehen ](../../Modify Designs/Modify Scale and Rotate.md)
+* [Ändern: Neigen/Reihe/Kopieren/Einfügen ](../../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
+* [Ändern: Boolesche Operationen ](../../Modify Designs/Modify Boolean Operations.md)
+* [Ändern: Abdeckung/Sweep/Erhebung ](../../Modify Designs/Modify Cover, Sweep, Loft.md)
 
-  
+#### Themen in diesem Abschnitt
 
-#### Topics in this section
+* [Importieren von 3D-Modellen und Bildern ](../Import 3D Models and Images.md)
 
-* [Import 3D Models and Images ](../Import 3D Models and Images.md)
-    
-    Add overlays and images to your designs for a variety of purposes.
-* [Sketching Shapes](../Sketching Shapes.md)
-    
-    Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
-* [Place Primitives](../Place Primitives.md)
-    
-    Use pre-defined shapes as design building blocks.
+Sie können Ihren Entwürfen für eine Reihe von Verwendungszwecken Überlagerungen und Bilder hinzufügen.
+
+* [Skizzieren von Formen](../Sketching Shapes.md)
+
+Erstellen Sie aus Linien, Bogen, Splines, Rechtecken und Kreisen Formen, die Sie zu Gebäudeentwürfen zusammenfügen können.
+
+* [Platzieren von Grundkörpern](../Place Primitives.md)
+
+Verwenden Sie vordefinierte Formen als Bausteine für Entwürfe.
 

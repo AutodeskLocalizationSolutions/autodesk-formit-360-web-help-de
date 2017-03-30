@@ -1,21 +1,20 @@
-# Adding Images to Your Designs
 
-----
 
-Use ground overlays and other images to add clarity and realism to a design.
- 
+# Hinzufügen von Bildern zu Ihren Entwürfen
 
-You can use image files in multiple ways, such as ground overlays to add additional data to a sketch or to trace over. After an image has been imported as a ground overlay, you can use the palette on the right-side of the screen to modify the image's properties. From the palette, you can edit the image's name and transparency. You can even manage all the ground overlays including any satellite imagery you brought in using the Vertical Order tool.
+---
+
+Mit Geländeüberlagerungen und anderen Bildern gestalten Sie Entwürfe klarer und wirklichkeitsgetreuer.
+
+Sie können Bilddateien auf unterschiedliche Weise verwenden, z. B. Geländeüberlagerungen zum Ergänzen einer Skizze um weitere Daten oder als Vorlage zum Nachzeichnen. Nachdem Sie ein Bild als Geländeüberlagerung importiert haben, können Sie über die Palette rechts auf dem Bildschirm seine Eigenschaften ändern. In der Palette können Sie den Namen und die Transparenz des Bilds bearbeiten. Mithilfe des Werkzeugs Vertikale Anordnung können Sie sämtliche Geländeüberlagerungen einschließlich importierter Satellitenbilder verwalten.
 
 * ![](Images/GUID-911B5932-8342-4CCF-BBAF-B761959F482B-low.jpg)
 
-Vertical Order provides a way to stack overlays according to your needs.
+Mit Vertikale Anordnung können Sie Überlagerungen Ihren Anforderungen entsprechend stapeln.
 
-  
+#### Themen in diesem Abschnitt
 
-#### Topics in this section
+* [Importieren und Ändern von Geländeüberlagerungsbildern](../Import and Modify Ground Overlay Images.md)
 
-* [Import and Modify Ground Overlay Images](../Import and Modify Ground Overlay Images.md)
-    
-    Acquire images for your design canvas and alter them if desired.
+Erfassen Sie Bilder für den Arbeitsbereich Ihres Entwurfs und ändern Sie sie nötigenfalls.
 

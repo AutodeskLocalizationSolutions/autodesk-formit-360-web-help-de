@@ -1,21 +1,23 @@
-# Edit, Reload, or Remove a Satellite Image
 
-----
 
-Make changes to your location images.
+# Bearbeiten, Neuladen oder Entfernen eines Satellitenbilds
 
-## Working with Satellite Images
+---
 
-1. To remove or edit a satellite image:
-2. Double click to select the image and then press Delete; or,
-3. From the context menu: Double click to select the satellite image, then right click over the image to bring up the context menu; chose the delete icon.
+Sie können Änderungen an den Bildern für Ihren Standort vornehmen.
 
-#### To Edit satellite images:
+## Arbeiten mit Satellitenbildern
 
-1. Similar to other images, you can edit the name, transparency, and vertical order of a satellite image. 
-    
-    ![](Images/GUID-71526B08-F8BB-4D95-A94C-0ABA25AC4090-low.png)
+1. So entfernen Sie ein Satellitenbild oder bearbeiten es
+2. Doppelklicken Sie auf das Bild, um es auszuwählen, und drücken Sie die Entf-Taste, oder
+3. verwenden Sie das Kontextmenü: Wählen Sie das Satellitenbild durch Doppelklicken aus, klicken Sie mit der rechten Maustaste darauf, um das Kontextmenü aufzurufen, und wählen Sie das Symbol Löschen.
+#### So bearbeiten Sie Satellitenbilder
 
-#### To reload a satellite image:
+1. Wie bei anderen Bildern können Sie auch bei Satellitenbildern den Namen, die Transparenz und die vertikale Anordnung ändern.
 
-1. Simply repeat the process to import a satellite image.
+![](Images/GUID-71526B08-F8BB-4D95-A94C-0ABA25AC4090-low.png)
+
+#### So laden Sie ein Satellitenbild erneut
+
+1. Wiederholen Sie einfach den Vorgang zum Importieren eines Satellitenbilds.
+

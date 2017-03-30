@@ -1,22 +1,23 @@
-# Application and Sketch Settings
 
-----
 
-Modify application-wide and sketch-specific settings to change how the app and individual sketches appear and behave.
-  
-* Modify application-wide settings to change how the entire FormIt 360 app appears and behaves.
-* Modify sketch-specific settings to change how the current open sketch appears and behaves.
- 
+# Anwendungs- und Skizzeneinstellungen
+
+---
+
+Mit anwendungsweiten und skizzenspezifischen Einstellungen steuern Sie die Darstellung und das Verhalten der Anwendung und einzelner Skizzen.
+
+* Mit Anwendungseinstellungen bestimmen Sie die Darstellung und das Verhalten der gesamten FormIt 360-App.
+* Mithilfe spezieller Einstellungen für Skizzen können Sie die Darstellung und das Verhalten der aktuell geöffneten Skizze ändern.
+
 * ![](Images/GUID-5F96059C-1A35-4067-BA6F-52429737CD66-low.png)
 
-  
+#### Themen in diesem Abschnitt
 
-#### Topics in this section
+* [Skizzeneinstellungen](../Sketch Settings.md)
 
-* [Sketch Settings ](../Sketch Settings.md)
-    
-    Change sketch-specific settings to change how the current sketch appears and behaves.
-* [Application Settings](../Application Settings.md)
-    
-    Modify application-wide settings to change how the entire FormIt 360 app appears and behaves.
+Mithilfe spezieller Einstellungen für Skizzen können Sie die Darstellung und das Verhalten der aktuellen Skizze ändern.
+
+* [Anwendungseinstellungen](../Application Settings.md)
+
+Mit Anwendungseinstellungen bestimmen Sie die Darstellung und das Verhalten der gesamten FormIt 360-App.
 
